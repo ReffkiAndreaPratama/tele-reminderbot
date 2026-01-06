@@ -67,7 +67,7 @@ Simpan BOT TOKEN
 Buat file .env
 
 BOT_TOKEN=ISI_TOKEN_DARI_BOTFATHER
-
+atau bisa gunakan token di index.js
 5️⃣ Jalankan Bot
 node bot.js
 
