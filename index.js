@@ -1,7 +1,7 @@
 const TelegramBot = require('node-telegram-bot-api');
 
 // GANTI token ini dengan token dari BotFather
-const TOKEN = '8268167843:AAFo8MO74tI_J9zbmKRMiEeLbzrD35hbOHY';
+const TOKEN = 'token';
 
 const bot = new TelegramBot(TOKEN, { polling: true });
 
